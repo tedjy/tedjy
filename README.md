@@ -16,9 +16,7 @@
 - **Security** : bonnes pratiques, détection, durcissement, logs
 
 ##  Projets phares
--  **Projet 1** — (résumé 1 ligne) → lien
--  **Projet 2** — (résumé 1 ligne) → lien
--  **Lab** — (résumé 1 ligne) → lien
+
 
 ##  Ce que je cherche
 - Une mission où je peux : **sécuriser**, **automatiser**, **monitorer**, **apprendre** vite
