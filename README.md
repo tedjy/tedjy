@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**tedjy/tedjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Salut, moi c’est Teddy
 
-Here are some ideas to get you started:
+🎯 Objectif : Alternance / CDI en **Cybersécurité** (SOC, Blue Team, Réseau, Sécu Windows)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  À propos
+-  Intérêt : sécurité réseau, durcissement, analyse d’incidents, scripting
+-  Environnement : Windows 11, lab perso, réseau (routeur/switch/firewall)
+-  Actuellement : montée en compétences (outils, méthodo, projets concrets)
+
+##  Compétences / Outils
+- **Réseau** : TCP/IP, VLAN, routage, firewalling
+- **Systèmes** : Windows, notions AD/GPO
+- **Scripting** : Python, Bash (bases)
+- **Security** : bonnes pratiques, détection, durcissement, logs
+
+##  Projets phares
+-  **Projet 1** — (résumé 1 ligne) → lien
+-  **Projet 2** — (résumé 1 ligne) → lien
+-  **Lab** — (résumé 1 ligne) → lien
+
+##  Ce que je cherche
+- Une mission où je peux : **sécuriser**, **automatiser**, **monitorer**, **apprendre** vite
+- Domaines : SOC / Blue team / sécurité réseau / admin sécu
+
+##  Contact
+- Email : williotteddy99@gmail.com
+
+---
+⭐ Si un projet t’intéresse, n’hésite pas à ouvrir une issue / me contacter.
+
