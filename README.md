@@ -1,8 +1,7 @@
-## Hi there 👋
 
-# 👋 Salut, moi c’est Teddy
+# Salut, moi c’est Teddy
 
-🎯 Objectif : Alternance / CDI en **Cybersécurité** (SOC, Blue Team, Réseau, Sécu Windows)
+Objectif : Alternance / CDI en **Cybersécurité** (SOC, Blue Team, Réseau, Sécu Windows)
 
 ##  À propos
 -  Intérêt : sécurité réseau, durcissement, analyse d’incidents, scripting
@@ -26,5 +25,5 @@
 - Email : williotteddy99@gmail.com
 
 ---
-⭐ Si un projet t’intéresse, n’hésite pas à ouvrir une issue / me contacter.
+Si un projet t’intéresse, n’hésite pas à ouvrir une issue / me contacter.
 
